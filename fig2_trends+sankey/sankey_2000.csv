@@ -1,0 +1,46 @@
+Flow,MEASURE,Unit,COUNTRY,Country,PRODUCT,FLOW,TIME,Time,Value,Flag Codes,Flags,Source,Target
+Exports,TJ,TJ,EU28,Memo: European Union-28,BIODIESEL,EXPORTS,2000,2000,2.66,,,1,11
+Transport,TJ,TJ,EU28,Memo: European Union-28,BIODIESEL,TOTTRANS,2000,2000,26764.24,,,1,15
+Agriculture/forestry,TJ,TJ,EU28,Memo: European Union-28,BIODIESEL,AGRICULT,2000,2000,60.94,,,1,18
+Transformation processes,TJ,TJ,EU28,Memo: European Union-28,BIOGASES,TOTTRANF,2000,2000,74676.91,,,2,12
+Energy industry own use,TJ,TJ,EU28,Memo: European Union-28,BIOGASES,TOTENGY,2000,2000,68,,,2,13
+Industry,TJ,TJ,EU28,Memo: European Union-28,BIOGASES,TOTIND,2000,2000,8705,,,2,14
+Commercial and public services,TJ,TJ,EU28,Memo: European Union-28,BIOGASES,COMMPUB,2000,2000,7900.34,,,2,17
+Agriculture/forestry,TJ,TJ,EU28,Memo: European Union-28,BIOGASES,AGRICULT,2000,2000,165.51,,,2,18
+Transport,TJ,TJ,EU28,Memo: European Union-28,BIOGASOL,TOTTRANS,2000,2000,2457,,,3,15
+Exports,TJ,TJ,EU28,Memo: European Union-28,CHARCOAL,EXPORTS,2000,2000,540,,,4,11
+Transformation processes,TJ,TJ,EU28,Memo: European Union-28,CHARCOAL,TOTTRANF,2000,2000,2674.8,,,4,12
+Industry,TJ,TJ,EU28,Memo: European Union-28,CHARCOAL,TOTIND,2000,2000,862.4,,,4,14
+Residential,TJ,TJ,EU28,Memo: European Union-28,CHARCOAL,RESIDENT,2000,2000,3197.2,,,4,16
+Commercial and public services,TJ,TJ,EU28,Memo: European Union-28,CHARCOAL,COMMPUB,2000,2000,124,,,4,17
+Final consumption not elsewhere specified,TJ,TJ,EU28,Memo: European Union-28,CHARCOAL,ONONSPEC,2000,2000,154,,,4,20
+Transformation processes,TJ,TJ,EU28,Memo: European Union-28,INDWASTE,TOTTRANF,2000,2000,64843,,,5,12
+Energy industry own use,TJ,TJ,EU28,Memo: European Union-28,INDWASTE,TOTENGY,2000,2000,1395,,,5,13
+Industry,TJ,TJ,EU28,Memo: European Union-28,INDWASTE,TOTIND,2000,2000,31136.44,,,5,14
+Commercial and public services,TJ,TJ,EU28,Memo: European Union-28,INDWASTE,COMMPUB,2000,2000,2273,,,5,17
+Agriculture/forestry,TJ,TJ,EU28,Memo: European Union-28,INDWASTE,AGRICULT,2000,2000,7,,,5,18
+Final consumption not elsewhere specified,TJ,TJ,EU28,Memo: European Union-28,INDWASTE,ONONSPEC,2000,2000,790,,,5,20
+Transformation processes,TJ,TJ,EU28,Memo: European Union-28,MUNWASTEN,TOTTRANF,2000,2000,140664.94,,,6,12
+Energy industry own use,TJ,TJ,EU28,Memo: European Union-28,MUNWASTEN,TOTENGY,2000,2000,4,,,6,13
+Industry,TJ,TJ,EU28,Memo: European Union-28,MUNWASTEN,TOTIND,2000,2000,442,,,6,14
+Commercial and public services,TJ,TJ,EU28,Memo: European Union-28,MUNWASTEN,COMMPUB,2000,2000,8492,,,6,17
+Agriculture/forestry,TJ,TJ,EU28,Memo: European Union-28,MUNWASTEN,AGRICULT,2000,2000,12,,,6,18
+Final consumption not elsewhere specified,TJ,TJ,EU28,Memo: European Union-28,MUNWASTEN,ONONSPEC,2000,2000,359,,,6,20
+Transformation processes,TJ,TJ,EU28,Memo: European Union-28,MUNWASTER,TOTTRANF,2000,2000,145255.63,,,7,12
+Energy industry own use,TJ,TJ,EU28,Memo: European Union-28,MUNWASTER,TOTENGY,2000,2000,4,,,7,13
+Industry,TJ,TJ,EU28,Memo: European Union-28,MUNWASTER,TOTIND,2000,2000,1002,,,7,14
+Commercial and public services,TJ,TJ,EU28,Memo: European Union-28,MUNWASTER,COMMPUB,2000,2000,8765,,,7,17
+Agriculture/forestry,TJ,TJ,EU28,Memo: European Union-28,MUNWASTER,AGRICULT,2000,2000,13,,,7,18
+Final consumption not elsewhere specified,TJ,TJ,EU28,Memo: European Union-28,MUNWASTER,ONONSPEC,2000,2000,697,,,7,20
+Transformation processes,TJ,TJ,EU28,Memo: European Union-28,OBIOLIQ,TOTTRANF,2000,2000,48.39,,,9,12
+Transport,TJ,TJ,EU28,Memo: European Union-28,OBIOLIQ,TOTTRANS,2000,2000,601.6,,,9,15
+Exports,TJ,TJ,EU28,Memo: European Union-28,PRIMSBIO,EXPORTS,2000,2000,20214,,,10,11
+Transformation processes,TJ,TJ,EU28,Memo: European Union-28,PRIMSBIO,TOTTRANF,2000,2000,305348.76,,,10,12
+Energy industry own use,TJ,TJ,EU28,Memo: European Union-28,PRIMSBIO,TOTENGY,2000,2000,473,,,10,13
+Industry,TJ,TJ,EU28,Memo: European Union-28,PRIMSBIO,TOTIND,2000,2000,649785.01,,,10,14
+Transport,TJ,TJ,EU28,Memo: European Union-28,PRIMSBIO,TOTTRANS,2000,2000,13,,,10,15
+Residential,TJ,TJ,EU28,Memo: European Union-28,PRIMSBIO,RESIDENT,2000,2000,1238117.53,,,10,16
+Commercial and public services,TJ,TJ,EU28,Memo: European Union-28,PRIMSBIO,COMMPUB,2000,2000,25191,,,10,17
+Agriculture/forestry,TJ,TJ,EU28,Memo: European Union-28,PRIMSBIO,AGRICULT,2000,2000,49923.01,,,10,18
+Fishing,TJ,TJ,EU28,Memo: European Union-28,PRIMSBIO,FISHING,2000,2000,7,,,10,19
+Final consumption not elsewhere specified,TJ,TJ,EU28,Memo: European Union-28,PRIMSBIO,ONONSPEC,2000,2000,915,,,10,20

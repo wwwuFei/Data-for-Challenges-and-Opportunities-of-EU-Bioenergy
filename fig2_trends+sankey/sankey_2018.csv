@@ -1,0 +1,64 @@
+Flow,MEASURE,Unit,COUNTRY,Country,PRODUCT,FLOW,TIME,Time,Value,Flag Codes,Flags,Source,Target
+Exports,TJ,TJ,EU28,Memo: European Union-28,BIOJETKERO,EXPORTS,2018,2018,301.7,,,0,11
+Exports,TJ,TJ,EU28,Memo: European Union-28,BIODIESEL,EXPORTS,2018,2018,309745.35,,,1,11
+Transformation processes,TJ,TJ,EU28,Memo: European Union-28,BIODIESEL,TOTTRANF,2018,2018,255.57,,,1,12
+Energy industry own use,TJ,TJ,EU28,Memo: European Union-28,BIODIESEL,TOTENGY,2018,2018,0.55,,,1,13
+Industry,TJ,TJ,EU28,Memo: European Union-28,BIODIESEL,TOTIND,2018,2018,12385.05,,,1,14
+Transport,TJ,TJ,EU28,Memo: European Union-28,BIODIESEL,TOTTRANS,2018,2018,561228.6,,,1,15
+Residential,TJ,TJ,EU28,Memo: European Union-28,BIODIESEL,RESIDENT,2018,2018,431.4,,,1,16
+Commercial and public services,TJ,TJ,EU28,Memo: European Union-28,BIODIESEL,COMMPUB,2018,2018,3970.14,,,1,17
+Agriculture/forestry,TJ,TJ,EU28,Memo: European Union-28,BIODIESEL,AGRICULT,2018,2018,16433.83,,,1,18
+Fishing,TJ,TJ,EU28,Memo: European Union-28,BIODIESEL,FISHING,2018,2018,738.4,,,1,19
+Final consumption not elsewhere specified,TJ,TJ,EU28,Memo: European Union-28,BIODIESEL,ONONSPEC,2018,2018,48.26,,,1,20
+Transformation processes,TJ,TJ,EU28,Memo: European Union-28,BIOGASES,TOTTRANF,2018,2018,556747.43,,,2,12
+Energy industry own use,TJ,TJ,EU28,Memo: European Union-28,BIOGASES,TOTENGY,2018,2018,21147.79,,,2,13
+Industry,TJ,TJ,EU28,Memo: European Union-28,BIOGASES,TOTIND,2018,2018,22960.63,,,2,14
+Transport,TJ,TJ,EU28,Memo: European Union-28,BIOGASES,TOTTRANS,2018,2018,6416.69,,,2,15
+Residential,TJ,TJ,EU28,Memo: European Union-28,BIOGASES,RESIDENT,2018,2018,12792.06,,,2,16
+Commercial and public services,TJ,TJ,EU28,Memo: European Union-28,BIOGASES,COMMPUB,2018,2018,32150.27,,,2,17
+Agriculture/forestry,TJ,TJ,EU28,Memo: European Union-28,BIOGASES,AGRICULT,2018,2018,36009.06,,,2,18
+Final consumption not elsewhere specified,TJ,TJ,EU28,Memo: European Union-28,BIOGASES,ONONSPEC,2018,2018,35,,,2,20
+Exports,TJ,TJ,EU28,Memo: European Union-28,BIOGASOL,EXPORTS,2018,2018,51615.98,,,3,11
+Industry,TJ,TJ,EU28,Memo: European Union-28,BIOGASOL,TOTIND,2018,2018,148.59,,,3,14
+Transport,TJ,TJ,EU28,Memo: European Union-28,BIOGASOL,TOTTRANS,2018,2018,125353.02,,,3,15
+Residential,TJ,TJ,EU28,Memo: European Union-28,BIOGASOL,RESIDENT,2018,2018,371.67,,,3,16
+Commercial and public services,TJ,TJ,EU28,Memo: European Union-28,BIOGASOL,COMMPUB,2018,2018,217.78,,,3,17
+Agriculture/forestry,TJ,TJ,EU28,Memo: European Union-28,BIOGASOL,AGRICULT,2018,2018,120.22,,,3,18
+Fishing,TJ,TJ,EU28,Memo: European Union-28,BIOGASOL,FISHING,2018,2018,0.88,,,3,19
+Final consumption not elsewhere specified,TJ,TJ,EU28,Memo: European Union-28,BIOGASOL,ONONSPEC,2018,2018,0.4,,,3,20
+Exports,TJ,TJ,EU28,Memo: European Union-28,CHARCOAL,EXPORTS,2018,2018,1816.67,,,4,11
+Transformation processes,TJ,TJ,EU28,Memo: European Union-28,CHARCOAL,TOTTRANF,2018,2018,3491.26,,,4,12
+Industry,TJ,TJ,EU28,Memo: European Union-28,CHARCOAL,TOTIND,2018,2018,322.35,,,4,14
+Residential,TJ,TJ,EU28,Memo: European Union-28,CHARCOAL,RESIDENT,2018,2018,14543.81,,,4,16
+Commercial and public services,TJ,TJ,EU28,Memo: European Union-28,CHARCOAL,COMMPUB,2018,2018,1872.43,,,4,17
+Transformation processes,TJ,TJ,EU28,Memo: European Union-28,INDWASTE,TOTTRANF,2018,2018,48705.2,,,5,12
+Energy industry own use,TJ,TJ,EU28,Memo: European Union-28,INDWASTE,TOTENGY,2018,2018,608.4,,,5,13
+Industry,TJ,TJ,EU28,Memo: European Union-28,INDWASTE,TOTIND,2018,2018,139242.92,,,5,14
+Commercial and public services,TJ,TJ,EU28,Memo: European Union-28,INDWASTE,COMMPUB,2018,2018,2336.25,,,5,17
+Final consumption not elsewhere specified,TJ,TJ,EU28,Memo: European Union-28,INDWASTE,ONONSPEC,2018,2018,10.98,,,5,20
+Exports,TJ,TJ,EU28,Memo: European Union-28,MUNWASTEN,EXPORTS,2018,2018,1547.6,,,6,11
+Transformation processes,TJ,TJ,EU28,Memo: European Union-28,MUNWASTEN,TOTTRANF,2018,2018,385794.22,,,6,12
+Energy industry own use,TJ,TJ,EU28,Memo: European Union-28,MUNWASTEN,TOTENGY,2018,2018,743,,,6,13
+Industry,TJ,TJ,EU28,Memo: European Union-28,MUNWASTEN,TOTIND,2018,2018,39469.93,,,6,14
+Commercial and public services,TJ,TJ,EU28,Memo: European Union-28,MUNWASTEN,COMMPUB,2018,2018,7235.16,,,6,17
+Exports,TJ,TJ,EU28,Memo: European Union-28,MUNWASTER,EXPORTS,2018,2018,1676.4,,,7,11
+Transformation processes,TJ,TJ,EU28,Memo: European Union-28,MUNWASTER,TOTTRANF,2018,2018,391124.13,,,7,12
+Energy industry own use,TJ,TJ,EU28,Memo: European Union-28,MUNWASTER,TOTENGY,2018,2018,743,,,7,13
+Industry,TJ,TJ,EU28,Memo: European Union-28,MUNWASTER,TOTIND,2018,2018,35686.44,,,7,14
+Commercial and public services,TJ,TJ,EU28,Memo: European Union-28,MUNWASTER,COMMPUB,2018,2018,6218.72,,,7,17
+Transformation processes,TJ,TJ,EU28,Memo: European Union-28,OBIOLIQ,TOTTRANF,2018,2018,43000.95,,,9,12
+Energy industry own use,TJ,TJ,EU28,Memo: European Union-28,OBIOLIQ,TOTENGY,2018,2018,1737.11,,,9,13
+Industry,TJ,TJ,EU28,Memo: European Union-28,OBIOLIQ,TOTIND,2018,2018,2900.69,,,9,14
+Transport,TJ,TJ,EU28,Memo: European Union-28,OBIOLIQ,TOTTRANS,2018,2018,28.7,,,9,15
+Residential,TJ,TJ,EU28,Memo: European Union-28,OBIOLIQ,RESIDENT,2018,2018,87.5,,,9,16
+Commercial and public services,TJ,TJ,EU28,Memo: European Union-28,OBIOLIQ,COMMPUB,2018,2018,1445.32,,,9,17
+Agriculture/forestry,TJ,TJ,EU28,Memo: European Union-28,OBIOLIQ,AGRICULT,2018,2018,391.33,,,9,18
+Exports,TJ,TJ,EU28,Memo: European Union-28,PRIMSBIO,EXPORTS,2018,2018,207267.36,,,10,11
+Transformation processes,TJ,TJ,EU28,Memo: European Union-28,PRIMSBIO,TOTTRANF,2018,2018,1336075.14,,,10,12
+Energy industry own use,TJ,TJ,EU28,Memo: European Union-28,PRIMSBIO,TOTENGY,2018,2018,789.69,,,10,13
+Industry,TJ,TJ,EU28,Memo: European Union-28,PRIMSBIO,TOTIND,2018,2018,895642.81,,,10,14
+Transport,TJ,TJ,EU28,Memo: European Union-28,PRIMSBIO,TOTTRANS,2018,2018,1.76,,,10,15
+Residential,TJ,TJ,EU28,Memo: European Union-28,PRIMSBIO,RESIDENT,2018,2018,1774015.94,,,10,16
+Commercial and public services,TJ,TJ,EU28,Memo: European Union-28,PRIMSBIO,COMMPUB,2018,2018,127197.63,,,10,17
+Agriculture/forestry,TJ,TJ,EU28,Memo: European Union-28,PRIMSBIO,AGRICULT,2018,2018,69562.8,,,10,18
+Fishing,TJ,TJ,EU28,Memo: European Union-28,PRIMSBIO,FISHING,2018,2018,7.32,,,10,19
